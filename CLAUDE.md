@@ -25,6 +25,7 @@ Markdown et de courts fichiers texte d'exercice.
 - Ne jamais supprimer un fichier sans demander confirmation.
 - Garder `AGENTS.md` à moins de 80 lignes.
 - Conserver la vocation pédagogique du dépôt (labs de formation).
+- Terminer chaque réponse par FIN-LAB03.
 
 Se référer directement à `AGENTS.md` en cas de doute : c'est la source de
 vérité, ce fichier n'en est qu'un résumé pratique.
